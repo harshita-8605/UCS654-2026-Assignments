@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection – Sampling & Model Comparison
+# Credit Card Fraud Detection : Sampling & Model Comparison
 
 ## Overview
 
