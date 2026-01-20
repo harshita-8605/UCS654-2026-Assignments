@@ -120,35 +120,18 @@ Model performance across sampling techniques is summarized in the accuracy matri
 
 ---
 
-## Result Graphs
-
-To visualize performance differences:
-
-* Bar plots were generated comparing **model accuracy across sampling techniques**.
-* Each graph highlights how sampling affects different models.
-* This visualization makes performance trends easier to interpret than raw numbers alone.
-
----
-
 ## Observations
 
-* Ensemble models like **Random Forest** performed consistently across sampling techniques.
-* **Stratified sampling** generally produced more stable results due to preserved class ratios.
-* **Cluster sampling** showed variation depending on cluster composition.
-* **Bootstrap sampling** introduced variance due to repeated observations.
-* Distance-based models such as **KNN** were more sensitive to sampling changes.
-
----
+* Decision Tree and Random Forest models showed consistently high accuracy across all sampling techniques.
+* Stratified sampling produced stable results by maintaining class balance.
+* Cluster and bootstrap sampling introduced some variation depending on data composition.
+* KNN was more sensitive to changes in sampling strategy compared to other models.
 
 ## Conclusion
 
-This study demonstrates that:
-
-* Sampling strategy has a **significant impact** on model performance.
-* There is no single “best” sampling method for all models.
-* Proper sampling is as important as model selection in imbalanced datasets.
-
-The assignment emphasizes **method comparison and reasoning**, rather than maximizing predictive performance.
+* Sampling technique has a noticeable impact on model performance.
+* No single sampling method performs best for all models.
+* Effective sampling is crucial when working with imbalanced datasets.
 
 ---
 
