@@ -1,4 +1,4 @@
-# Learn Probability Density Functions using Roll-Number-Parameterized Non-Linear Model
+# (Advance Mathematics)Learn Probability Density Functions using Roll-Number-Parameterized Non-Linear Model
 
 ## Dataset
 The India Air Quality dataset from Kaggle was used.  
