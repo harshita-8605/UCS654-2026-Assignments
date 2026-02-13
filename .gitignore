@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated folders
+Program 1/downloads/
+Program 1/output/
+
+# Audio files
+*.mp3
+*.wav
+
+# macOS system files
+.DS_Store
+
