@@ -8,8 +8,8 @@ __pycache__/
 # Generated folders
 Program 1/downloads/
 Program 1/output/
-Program 2/downloads/
-Program 2/output/
+Program_2/downloads/
+Program_2/output/
 
 # Audio files
 *.mp3
