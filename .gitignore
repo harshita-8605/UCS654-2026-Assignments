@@ -8,10 +8,15 @@ __pycache__/
 # Generated folders
 Program 1/downloads/
 Program 1/output/
+Program 2/downloads/
+Program 2/output/
 
 # Audio files
 *.mp3
 *.wav
+
+# Environment variables
+.env
 
 # macOS system files
 .DS_Store
