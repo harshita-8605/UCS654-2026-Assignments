@@ -1,0 +1,2 @@
+[console_scripts]
+topsis-harshita-102317003 = topsis_harshita_102317003.topsis:main

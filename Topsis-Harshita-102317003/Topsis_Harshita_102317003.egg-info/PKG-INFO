@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: Topsis-Harshita-102317003
+Version: 0.0.1
+Summary: TOPSIS implementation in Python
+Author: Harshita
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
